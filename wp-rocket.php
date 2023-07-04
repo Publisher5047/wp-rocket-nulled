@@ -13,7 +13,7 @@
  *
  * Text Domain: rocket
  * Domain Path: languages
- *
+ *E
  * Copyright 2013-2023 WP Rocket
  */
 
